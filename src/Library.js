@@ -17,7 +17,7 @@ class Library extends React.Component {
               freeBookMark: false,
               hiring: false,
               data: [],
-              loading: falseclear
+              loading: false
             }
    
     componentDidMount () {
